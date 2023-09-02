@@ -13,5 +13,12 @@ namespace PowerGlass
         {
 
         }
+
+    
+
+        protected void calendario_SelectionChanged(object sender, EventArgs e)
+        {
+            DateTime dataSelecionada = calendario.SelectedDate;
+        }
     }
 }
