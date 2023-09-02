@@ -21,7 +21,8 @@
         <div>
             <asp:Label ID="lblProd" runat="server" Text="Selecione o tipo de serviço:"></asp:Label>
             <br />
-            <asp:DropDownList ID="DropDownList1" runat="server">
+            <br />
+            <asp:DropDownList ID="drpTipoServico" runat="server">
                 <asp:ListItem Value="0">Selecione</asp:ListItem>
                 <asp:ListItem Value="1">Kit Completo</asp:ListItem>
                 <asp:ListItem Value="2">Reposição</asp:ListItem>

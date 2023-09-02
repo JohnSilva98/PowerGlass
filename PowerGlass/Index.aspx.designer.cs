@@ -51,12 +51,12 @@ namespace PowerGlass
         protected global::System.Web.UI.WebControls.Label lblProd;
 
         /// <summary>
-        /// Controle DropDownList1.
+        /// Controle drpTipoServico.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.DropDownList drpTipoServico;
     }
 }
